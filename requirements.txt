@@ -1,30 +1,118 @@
-flask
-Jinja2
-joblib
-gunicorn
-kiwisolver
-MarkupSafe
-matplotlib
-pandas
-numpy
 
+Conversation opened. 2 messages. 1 message unread.
+
+Skip to content
+Using Poornima Group Mail with screen readers
+
+54 of 8,768
+requirement.txt file for NLP
+Inbox
+
+Deepak Moud
+Attachments
+Tue, 2 Aug, 13:58 (2 days ago)
+to ADITI, AARYA, ISHA, SANJAY, SHAGUN, NAITIK, NIKITA, KARTIKEY, ALANKRITA, HARSH, KRATI, KARTIK, MITUL, JAINIKA, DARSHITA, me, YOGRAJ, SUDHANSHU, NIVESH, MUHAMMED, YASH
+
+
+
+--
+Deepak Moud
+Assistant Professor
+Department of Computer Engineering
+Poornima Institute of Engineering & Technology, Jaipur
+Microsoft Certified : Azure AI Fundamental
+Microsoft Certified: Azure Data Fundamental
+07568748510
+
+
+Mailtrack	Sender notified by
+Mailtrack	08/02/22, 01:56:57 PM	
+
+
+
+
+Attachments area
+
+Deepak Moud
+Attachments
+Tue, 2 Aug, 14:02 (2 days ago)
+to ADITI, AARYA, ISHA, SANJAY, SHAGUN, NAITIK, NIKITA, KARTIKEY, ALANKRITA, HARSH, KRATI, KARTIK, MITUL, JAINIKA, DARSHITA, me, YOGRAJ, SUDHANSHU, NIVESH, MUHAMMED, YASH
+
+please use this file
+
+Mailtrack	Sender notified by
+Mailtrack	08/02/22, 02:00:53 PM	
+
+
+On Tue, 2 Aug 2022 at 13:57, Deepak Moud <deepakmoud@poornima.org> wrote:
+
+
+--
+Deepak Moud
+Assistant Professor
+Department of Computer Engineering
+Poornima Institute of Engineering & Technology, Jaipur
+Microsoft Certified : Azure AI Fundamental
+Microsoft Certified: Azure Data Fundamental
+07568748510
+
+
+Mailtrack	Sender notified by
+Mailtrack	08/02/22, 01:56:57 PM	
+
+
+
+--
+Deepak Moud
+Assistant Professor
+Department of Computer Engineering
+Poornima Institute of Engineering & Technology, Jaipur
+Microsoft Certified : Azure AI Fundamental
+Microsoft Certified: Azure Data Fundamental
+07568748510
+
+
+
+
+Attachments area
+Got it, thanks!Thanks a lot.Done.
+certifi==2020.12.5
+chardet==4.0.0
+click==8.0.1
+colorama==0.4.4
+cycler==0.10.0
+docopt==0.6.2
+Flask==2.0.0
+idna==2.10
+itsdangerous==2.0.1
+Jinja2==3.0.1
+joblib==1.0.1
+gunicorn==20.0.2
+kiwisolver==1.3.1
+MarkupSafe==2.0.1
+matplotlib==3.4.2
+numpy==1.20.3
+pandas
 Pillow
 pipreqs
 pyparsing
 python-dateutil
 pytz
 requests
-opencv-python
-
+scikit-learn
+scipy
 six
-
+sklearn
 threadpoolctl
 urllib3
 Werkzeug
 yarg
+mlxtend
 nltk
+flask-login
+requests
 
-
-
-keras
-tensorflow-cpu
+oauthlib
+pyOpenSSL
+requirement.txt
+Displaying requirement.txt.
